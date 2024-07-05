@@ -1,0 +1,29 @@
+.custom_row{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.bg-custom{
+    background-image: url("./../image/background_login.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.custom_card{
+    background-color: transparent !important;
+    border-radius: 1rem !important;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  }
+  .bg-home{
+    background-image: url("./../image/home.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .bg-other{
+    background-image: url("./../image/oterpage.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
